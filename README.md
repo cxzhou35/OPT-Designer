@@ -6,4 +6,4 @@ The optical designer project of ZJU-OPT-Course in 2022 summer.
 - Install the Python modules: pip install -r requirement.txt
 - Run main file: python3 main.py
 
-> Source code is for reference only, please don't use for your course, the consequences of plagiarism are self-imposed
+> The source code is for reference only, please don't use for your course, the consequences of plagiarism are self-imposed.
