@@ -1,2 +1,2 @@
 # OPT-Designer
-The optical designer roject of Zju-Opt-Course in 2022 summer.
+The optical designer project of ZJU-OPT-Course in 2022 summer.
