@@ -388,7 +388,7 @@ class MainUi(QMainWindow):
 
     # 读取 id 判断是否是管理员
     def match_id(self):
-        list_id = ['3200104055','3200105863']
+        list_id = ['123456']
         line_id = self.id_line.text()
         # 与输入的学号比较
         if line_id in list_id:
